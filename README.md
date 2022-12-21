@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vedant Palit</h1>
 <h3 align="center">An Industrial and Systems Engineering Student at IIT Kharagpur, India</h3>
 
+<h3 align="center"><!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 - 🔭 I’m currently working on [Conv-AI](https://github.com/Vedantpalit/Conv-AI)
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**

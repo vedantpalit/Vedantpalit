@@ -8,19 +8,19 @@
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
 
-- 🤝 I’m looking for help with [Lane detection and Segmentation Maps](https://github.com/Vedantpalit/AUTONOMOUS-DRIVING/tree/main/TASKS/TASK-3)
+- 🤝 I’m looking for help with [**Lane Detection**](https://github.com/Vedantpalit/AUTONOMOUS-DRIVING/tree/main/TASKS/TASK-3)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vedantpalit](https://github.com/Vedantpalit)
+- 👨‍💻 All of my projects are available at [**https://github.com/Vedantpalit**](https://github.com/Vedantpalit)
 
 - 📫 How to reach me: **vedantpalit10@gmail.com**
 
-- 📄 Know about my experiences [Experience](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
+- 📄 Know about my experiences [**Experience**](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vedant palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedant palit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant palit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant palit" height="30" width="40" /></a>
+<a href="https://twitter.com/vedantpalit1008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedant palit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedant-palit-b22558188/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant palit" height="30" width="40" /></a>
 <a href="https://instagram.com/vedantpalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedantpalit" height="30" width="40" /></a>
 </p>
 

@@ -29,6 +29,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantpalit&show_icons=true&locale=en&bg_color=00000000" alt="vedantpalit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantpalit&show_icons=true&locale=en&bg_color=rgba(0,0,0,0)" alt="vedantpalit" /></p>
 
 

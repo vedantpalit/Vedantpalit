@@ -29,3 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedantpalit&show_icons=true&locale=en" alt="vedantpalit" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/{Vedantpalit}/count.svg)

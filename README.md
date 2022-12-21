@@ -4,7 +4,7 @@
 <h3 align="center"><!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </h3>
 
-- 🔭 I’m currently working on [Conv-AI](https://github.com/Vedantpalit/Conv-AI)
+- 🔭 I’m currently working on [**Conv-AI**](https://github.com/Vedantpalit/Conv-AI)
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
 

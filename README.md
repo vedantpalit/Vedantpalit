@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vedantpalit](https://github.com/Vedantpalit)
 
-- 📫 How to reach me **vedantpalit10@gmail.com**
+- 📫 How to reach me: **vedantpalit10@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
 
-- ⚡ Fun fact **I make the worst jokes at the worst possible of times**
+- ⚡ Fun fact: **I make the worst jokes at the worst possible of times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

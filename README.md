@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Palit</h1>
-<h3 align="center">An Industrial and Systems Engineering Student at IIT Kharagpur, India</h3>
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFF97A&center=true&width=435&lines=I+am+a+sophomore+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+take+keen+interest;in+Computer+Vision%2C+NLP+and+Bad+Jokes+%3A))](https://git.io/typing-svg)</h3>
 
 <h3 align="center"><!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /> </h3>
@@ -16,7 +16,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
 
-- ⚡ Fun fact: **I make the worst jokes at the worst possible of times**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

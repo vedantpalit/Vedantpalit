@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [**Lane Detection**](https://github.com/Vedantpalit/AUTONOMOUS-DRIVING/tree/main/TASKS/TASK-3)
 
-- 👨‍💻 All of my projects are available at [**https://github.com/Vedantpalit**](https://github.com/Vedantpalit)
+- 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 
 - 📫 How to reach me: **vedantpalit10@gmail.com**
 

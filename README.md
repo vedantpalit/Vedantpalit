@@ -1,5 +1,5 @@
 <h1 align="center">Hi,My Name is Vedant Palit</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFF97A&center=true&vCenter=true&width=435&lines=I+am+a+sophomore+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+take+keen+interest;in+Computer+Vision%2C+NLP+and+Bad+Jokes+%3A)" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=FFF97A&center=true&vCenter=true&width=435&lines=I+am+a+sophomore+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+take+keen+interest;in+Computer+Vision%2C+NLP+and+Bad+Jokes+%3A)" alt="Typing SVG" /></a></h3>
 
 <h3 align="center"><!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/> </h3>

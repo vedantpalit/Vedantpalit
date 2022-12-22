@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
 
-- 🤝 I’m looking for help with [**Lane Detection**](https://github.com/Vedantpalit/AUTONOMOUS-DRIVING/tree/main/TASKS/TASK-3)
-
 - 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 
 - 📫 How to reach me: **vedantpalit10@gmail.com**

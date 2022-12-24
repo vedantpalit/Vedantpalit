@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences from [**Experience**](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
 
+- 🤖 A Fun fact about me would be that I make the wrong jokes at the worst moments
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

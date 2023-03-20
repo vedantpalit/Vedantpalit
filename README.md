@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 
-- 📫 How to reach me at **vedantpalit10@gmail.com**
+- 📫 Reach me at **vedantpalit10@gmail.com**
 
 - 📄 Know about my experiences from [**Experience**](https://drive.google.com/file/d/1nKqfrhFSHzduerdwUJOCfRfbLINyKIw0/view?usp=sharing)
 

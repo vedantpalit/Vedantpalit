@@ -29,5 +29,5 @@
 
 
 
-https://github-readme-streak-stats.herokuapp.com/?user=Vpalit1008
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vpalit1008&theme=dark&background=000000)](https://git.io/streak-stats)
 

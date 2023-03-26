@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [**Conv-AI**](https://github.com/Vedantpalit/Conv-AI)
+- 🔭 I’m currently working on Nothing as such
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
 
@@ -29,5 +29,5 @@
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vpalit1008&theme=dark&background=000000)](https://git.io/streak-stats)
+
 

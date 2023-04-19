@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Nothing as such
+- 🔭 I’m currently working on Causal Abstraction on Vision-Language Models
 
 - 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
 

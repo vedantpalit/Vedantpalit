@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Causal Abstraction on Vision-Language Models
 
-- 🌱 I’m currently learning **Competitive Programming, Natural Language Processing and Computer Vision**
+- 🌱 I’m currently involved **Deep Learning Architectures, Natural Language Processing and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 

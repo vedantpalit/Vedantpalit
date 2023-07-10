@@ -1,9 +1,9 @@
 <h1 align="center">Hi,My Name is Vedant Palit</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=I+am+a+sophomore+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Natural+Language+Processing" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=I+am+a+third year undergrad+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Natural+Language+Processing" alt="Typing SVG" /></a></h3>
 
 
 
-- 🔭 I’m currently working on Causal Abstraction on Vision-Language Models
+- 🔭 I’m currently working on Causal Intervention on VL Models and Zero-Shot Robustness of VL Models
 
 - 🌱 I’m currently involved in work related to **Deep Learning Architectures, Natural Language Processing and Computer Vision**
 

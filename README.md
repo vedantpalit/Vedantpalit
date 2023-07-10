@@ -1,5 +1,5 @@
 <h1 align="center">Hi,My Name is Vedant Palit</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=I+am+a+third year undergrad+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Natural+Language+Processing" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=19F725&background=00000033&center=true&vCenter=true&width=600&lines=I+am+a+third year UG+at+IIT+Kharagpur;Pursuing+Industrial+and+Systems+Engineering;I+am+Interested+in+;Computer+Vision+and+Natural+Language+Processing" alt="Typing SVG" /></a></h3>
 
 
 

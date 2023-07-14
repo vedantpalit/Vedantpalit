@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Causal Intervention on VL Models and Zero-Shot Robustness of VL Models
+- 🔭 I’m currently working on Robustness of Zero-shot VL Models
 
 - 🌱 I’m currently involved in work related to **Deep Learning Architectures, Natural Language Processing and Computer Vision**
 

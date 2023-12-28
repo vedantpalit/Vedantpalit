@@ -3,13 +3,15 @@
 
 
 
-- 🔭 I’m currently working on Robustness of Zero-shot VL Models
+- 🔭 I’m currently working on Mechanistic Interpretability of VL Models.
 
 - 🌱 I’m currently involved in work related to **Deep Learning Architectures, Natural Language Processing and Computer Vision**
 
 - 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 
 - 📫 Reach me at **vedantpalit@kgpian.iitkgp.ac.in**
+
+- 🏆 Know more about my experieces as [](https://vedantpalit.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>

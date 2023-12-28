@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **vedantpalit@kgpian.iitkgp.ac.in**
 
-- 🏆 Know more about my experieces as [**vedantpalit.github.io**](https://vedantpalit.github.io/)
+- 🏆 Know more about my experieces at [**vedantpalit.github.io**](https://vedantpalit.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>

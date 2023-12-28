@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [**Vedantpalit**](https://github.com/Vedantpalit)
 
-- 📫 Reach me at **vedantpalit@kgpian.iitkgp.ac.in*
+- 📫 Reach me at **vedantpalit@kgpian.iitkgp.ac.in**
 
 
 <h3 align="left">Connect with me:</h3>

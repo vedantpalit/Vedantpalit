@@ -56,17 +56,17 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vedantpalit&show_icons=true&theme=radical" alt="vedantpalit" />
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantpalit&layout=compact&theme=radical" alt="vedantpalit" />
 </p>
 
 <h3 align="left">Streak Stats:</h3>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantpalit&theme=radical" alt="vedantpalit" />
 </p>
 
